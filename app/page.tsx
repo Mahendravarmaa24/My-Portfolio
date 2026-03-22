@@ -129,10 +129,10 @@ export default function MahendravarmaaPortfolio() {
                 Mahendravarmaa Anbarasan
               </h1>
               <p className="mt-4 text-base text-zinc-300 md:text-lg">
-                Chicago, Illinois (Willing to Relocate) • amahe@iu.edu • varmaa.mahi@gmail.com • +1 (331) 298-1193
+                Chicago, Illinois (Open for Relocation) • amahe@iu.edu • varmaa.mahi@gmail.com • +1 (331) 298-1193
               </p>
               <p className="mt-6 max-w-3xl text-lg leading-8 text-zinc-300 md:text-xl">
-                MS in Data Science student with a strong foundation in advanced analytics and the data domain, with a particular focus on back-end development. I build practical systems across machine learning, IoT, business intelligence, and information visualization.
+                MS in Data Science student with a strong foundation in advanced analytics and the data domain, with a particular focus on back-end development. I build real-time systems across machine learning, IoT, business intelligence, and information visualization.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-4">
@@ -215,7 +215,7 @@ export default function MahendravarmaaPortfolio() {
               I am currently pursuing my M.S. in Data Science at Indiana University Bloomington after completing my undergraduate degree in Computer Science and Technology with a specialization in Big Data Analytics at SRM Institute of Science and Technology.
             </p>
             <p className="mt-5 leading-8 text-zinc-300">
-              My interests lie in analytics, machine learning, IoT-enabled systems, business intelligence, and back-end development. I enjoy building end-to-end solutions that turn data into actionable insights and measurable impact.
+              I specialize in analytics, machine learning, IoT-enabled systems, business intelligence, and back-end development, with a focus on building end-to-end solutions that convert complex data into actionable insights and measurable business impact.
             </p>
             <div className="mt-6 rounded-2xl border border-red-950/60 bg-red-950/20 p-5">
               <p className="text-sm font-semibold uppercase tracking-wide text-red-300">Why recruiters should notice me</p>
