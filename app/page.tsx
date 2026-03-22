@@ -387,7 +387,7 @@ export default function MahendravarmaaPortfolio() {
               GitHub
             </a>
             <a
-              href="www.linkedin.com/in/mahendravarmaa-anbarasan-53248a282"
+              href="https://www.linkedin.com/in/mahendravarmaa-anbarasan-53248a282/"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl border border-red-900 px-5 py-3 font-semibold text-zinc-100 transition hover:border-red-700 hover:bg-red-950/30"
