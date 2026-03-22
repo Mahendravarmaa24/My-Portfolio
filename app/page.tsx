@@ -144,7 +144,7 @@ export default function MahendravarmaaPortfolio() {
                   Download Resume
                 </a>
                 <a
-                  href="https://www.linkedin.com"
+                  href="www.linkedin.com/in/mahendravarmaa-anbarasan-53248a282"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-2xl border border-red-900 px-5 py-3 font-semibold text-zinc-100 transition hover:border-red-700 hover:bg-red-950/30"
@@ -152,7 +152,7 @@ export default function MahendravarmaaPortfolio() {
                   View LinkedIn
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Mahendravarmaa24"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-2xl border border-red-900 px-5 py-3 font-semibold text-zinc-100 transition hover:border-red-700 hover:bg-red-950/30"
@@ -378,12 +378,9 @@ export default function MahendravarmaaPortfolio() {
             >
               Email Me
             </a>
-            <a
-              href="https://github.com/Mahendravarmaa24"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-2xl border border-red-900 px-5 py-3 font-semibold text-zinc-100 transition hover:border-red-700 hover:bg-red-950/30"
-            >
+            <a href="https://github.com/Mahendravarmaa24">
+
+            
               GitHub
             </a>
 
